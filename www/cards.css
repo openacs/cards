@@ -1,0 +1,42 @@
+/*  CSS CARDS PACKAGE  - UVEG - fransola@uv.es  */
+a.t:hover {background:#ffcc00;padding-top:5px;padding-bottom:2px;}
+a.button1 {font: 85% arial; border: solid 1px black; background-color: #99ccff; text-align: center; padding: 2px; padding-left: 8px; padding-right: 8px; color: black; text-decoration: none; white-space: nowrap;}
+
+a{color:#0048AF}
+a:visited{color:#0048AF}
+a.link1 {background:#FFFFE0;color:#383C93;font-weight:bold}
+a.link1:visited{background:#FFFFE0;color:#383C93;font-weight:bold}
+a.link1:hover {background:#FAC328;color:#383C93;font-weight:bold}
+img {border:0px}
+
+
+form {font-size:11px;color:#003366}
+input {font-size:11px;color:#003366}
+select {font-size:11px;color:#003366}
+textarea {font-size:11px;color:#003366}
+
+.list_c {padding:4px;border-right:1px solid #A0BDEB;padding-left:5px}
+.list_h { background:#6186b0;border-bottom: 3px solid #A0BDEB;color:white;text-align:left}
+
+th.list_c { border-bottom: 3px solid #A0BDEB;}
+
+tr.list_c_sel { border-right:1px solid #A0BDEB;border-bottom: 1px solid #A0BDEB;background:#e0e0e0;}
+tr.list-odd_c {padding:4px;border-right:1px solid #A0BDEB;background-color: #EAF2FF;}
+tr.list-even_c {padding:4px;border-right:1px solid #A0BDEB;background-color: white;}
+
+td.list_c { border-bottom: 1px solid #A0BDEB;}
+td.list_c_sel { border-right:1px solid #A0BDEB;border-bottom: 1px solid #A0BDEB;background:#e0e0e0;}
+td.list_sel {padding:4px;border-right:1px solid #A0BDEB;padding-left:5px;background:#e0e0e0;}
+td.list-button-bar {padding-top: 3px;  font-size: 115%;}
+td.orla {width:85px;height:85px;border: 1px solid #6186B0;font-size:9px;}
+td.orla:hover {width:85px;height:85px;border: 1px solid #FAC328;font-size:9px;}
+
+div.volver {background:#6186b0;color:#ffffff;padding-top:5px;padding-bottom:2px;display:inline}
+
+
+
+
+
+
+
+

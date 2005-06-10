@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="cards" package_version="0.1d" locale="es_ES" charset="ISO-8859-1">
+
+  <msg key="pretty_name">Fichas</msg>
+  <msg key="card_Accept">Aceptar </msg>
+  <msg key="card_Student">Alumno </msg>
+  <msg key="card_Students">Alumnos </msg>
+  <msg key="card_Note">Anotación </msg>
+  <msg key="card_Notes">Anotaciones </msg>
+  <msg key="card_Passed">Aprobados </msg>
+  <msg key="card_Block">Bloque </msg>
+  <msg key="card_Delete">Borrar </msg>
+  <msg key="card_Cancel">Cancelar </msg>
+  <msg key="card_Comment">Comentario </msg>
+  <msg key="card_Student_comments">Comentarios del estudiante al profesor </msg>
+  <msg key="card_Lecturer_comments">Comentarios del profesor al estudiante </msg>
+  <msg key="card_Setup_evaluation">Configurar Evaluación </msg>
+  <msg key="card_E-mail">Correo electrónico </msg>
+  <msg key="card_Personal_info">Datos Personales </msg>
+  <msg key="card_Address">Dirección </msg>
+  <msg key="card_Edit">Editar </msg>
+  <msg key="card_Date">Fecha </msg>
+  <msg key="card_Student_records">Fichas de estudiantes </msg>
+  <msg key="card_Manage_notes">Gestionar Anotaciones </msg>
+  <msg key="card_Note_list">Listado anotaciones </msg>
+  <msg key="card_Evaluation_blocks_list">Listado de Bloques </msg>
+  <msg key="card_Grades_list">Listado Notas </msg>
+  <msg key="card_Not_done">No presentados </msg>
+  <msg key="card_Note_name">Nombre </msg>
+  <msg key="card_Block_name">Nombre Bloques </msg>
+  <msg key="card_Grade">Nota </msg>
+  <msg key="card_Final_grade">Nota Final </msg>
+  <msg key="card_Average_grade">Nota Media </msg>
+  <msg key="card_Grades">Notas </msg>
+  <msg key="card_Setup_options">Opciones de configuración </msg>
+  <msg key="card_Web_Page">Página web </msg>
+  <msg key="card_Allow_students_access">Permitir acceso alumnos </msg>
+  <msg key="card_Without_academic_validity">Sin validez académica </msg>
+  <msg key="card_Not_passed">Suspensos </msg>
+  <msg key="card_Phone">Teléfono </msg>
+  <msg key="card_Data_type">Tipo de datos </msg>
+  <msg key="card_Total_assigned">Total asignado </msg>
+  <msg key="card_Back">Volver </msg>
+  <msg key="card_Orla">Orla </msg>
+  <msg key="card_Invalid_value1">Valor incorrecto en </msg>
+  <msg key="card_Invalid_value2">. Solo valores enteros entre 0 y </msg>
+  <msg key="card_Invalid_data">Datos no válidos. Revisa los campos marcados. </msg>
+  <msg key="card_Subjet">ASIGNATURA</msg>
+  <msg key="card_Text">Texto</msg>  
+  <msg key="card_Basic">Básica</msg>
+  <msg key="card_Select">Selecionable</msg>  
+  <msg key="card_Add_note_asig">Añadir anotación</msg>
+  <msg key="card_Active">Activa</msg>
+  <msg key="card_Action">Acción</msg>
+  <msg key="card_No_notes">Anotaciones no disponibles</msg>
+  <msg key="card_del_bloc1">El borrado del bloque </msg>
+  <msg key="card_del_bloc2">implica el borrado de todas sus anotaciones y la pérdida de esas notas de los alumnos. ¿Está seguro?</msg>
+  <msg key="card_del_note1">El borrado de la anotación </msg>
+  <msg key="card_del_note2">implica la perdida de esa nota de los alumnos. ¿Está seguro?</msg>  
+  
+   
+</message_catalog>
