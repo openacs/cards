@@ -10,15 +10,21 @@
 
     <version name="0.2d" url="http://openacs.org/repository/download/apm/cards-0.2d.apm">
         <owner url="mailto:fransola@uv.es">Francisco Soler</owner>
-
+        <release-date>2006-06-22</release-date>
+        <maturity>0</maturity>
+        
         <!-- No dependency information -->
 
-        <callbacks>
-        </callbacks>
-        <parameters>
-        <!-- No version parameters -->
-        </parameters>
+    <callbacks>
+    </callbacks>
 
+    <parameters>
+                
+        <parameter datatype="number"  min_n_values="1"  max_n_values="1"  name="AllowGradeView" default="1" description="Allow to students view their grades if value is 1"/>
+
+        <parameter datatype="number"  min_n_values="1"  max_n_values="1"  name="ReuseParentCards" default="1" description="This parameter allow to the subgroups reuse the cards of its parent course"/>
+        </parameters>           
+                
     </version>
 </package>
 
