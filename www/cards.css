@@ -1,19 +1,12 @@
-/*  CSS CARDS PACKAGE  - UVEG - fransola@uv.es  
+/*  CSS CARDS PACKAGE  - UVEG - fransola@uv.es  */
 a.t:hover {background:#ffcc00;padding-top:5px;padding-bottom:2px;}
-a.button1 {font: 100% arial; border: solid 1px black; background-color: #99ccff; text-align: center; padding: 2px; padding-left: 8px; padding-right: 8px; color: black; text-decoration: none; white-space: nowrap;}
+a.button1 {font: 85% arial; border: solid 1px black; background-color: #99ccff; text-align: center; padding: 2px; padding-left: 8px; padding-right: 8px; color: black; text-decoration: none; white-space: nowrap;}
 
-a.button { font: 100% arial; border: solid 1px black; background-color: #e1e1e1;
-  text-align: center; padding: 1px; padding-left: 8px; padding-right: 8px; color: black;
-  text-decoration: none; white-space: nowrap;
-}
-
-
-a {color:#0048AF; border:0px solid red}
+a{color:#0048AF}
 a:visited{color:#0048AF}
 a.link1 {background:#FFFFE0;color:#383C93;font-weight:bold}
 a.link1:visited{background:#FFFFE0;color:#383C93;font-weight:bold}
 a.link1:hover {background:#FAC328;color:#383C93;font-weight:bold}
-a.order {color:red;text-decoration: none}
 img {border:0px}
 
 
@@ -21,25 +14,16 @@ form {font-size:11px;color:#003366}
 input {font-size:11px;color:#003366}
 select {font-size:11px;color:#003366}
 textarea {font-size:11px;color:#003366}
-pre {font: 95% arial}
 
 .list_c {padding:4px;border-right:1px solid #A0BDEB;padding-left:5px}
-.list_h { background:#6186b0;border-bottom: 3px solid #A0BDEB; 
-                padding-top: 3px; padding-bottom: 3px;color:white;text-align:left; }
+.list_h { background:#6186b0;border-bottom: 3px solid #A0BDEB;color:white;text-align:left}
 
 th.list_c { border-bottom: 3px solid #A0BDEB;}
 
-tr.list_c_sel { border-right:10px solid #A0BDEB;border-bottom: 10px solid #A0BDEB;}
+tr.list_c_sel { border-right:1px solid #A0BDEB;border-bottom: 1px solid #A0BDEB;background:#e0e0e0;}
 tr.list-odd_c {padding:4px;border-right:1px solid #A0BDEB;background-color: #EAF2FF;}
 tr.list-even_c {padding:4px;border-right:1px solid #A0BDEB;background-color: white;}
 
-table.list_to_print {
-  font-family: tahoma, verdana, helvetica; 
-  border-collapse: collapse;
-  font-size: 70%;
-}
-th.list_to_print {font-size:80% arial; padding-left: 0.5em; padding-right: 0.5em; border-bottom: 3px solid #A0BDEB;}
-td.list_to_print {font-size:80% arial; padding-left: 0.5em; padding-right: 0.5em; border-bottom: 1px solid #A0BDEB;}
 td.list_c { border-bottom: 1px solid #A0BDEB;}
 td.list_c_sel { border-right:1px solid #A0BDEB;border-bottom: 1px solid #A0BDEB;background:#e0e0e0;}
 td.list_sel {padding:4px;border-right:1px solid #A0BDEB;padding-left:5px;background:#e0e0e0;}
@@ -48,161 +32,11 @@ td.orla {width:85px;height:85px;border: 1px solid #6186B0;font-size:9px;}
 td.orla:hover {width:85px;height:85px;border: 1px solid #FAC328;font-size:9px;}
 
 div.volver {background:#6186b0;color:#ffffff;padding-top:5px;padding-bottom:2px;display:inline}
-.volver {background:#6186b0;color:#ffffff;padding-top:5px;padding-bottom:2px;display:inline}
-
-.t_asig {background:#5C81B7;color:#ffffff;font-weight:bold;padding-top:5px;padding-bottom:2px;display:inline}
-.t_nota {border:2px solid orange; color:#5C81B7;font-weight:bold;padding-top:5px;padding-bottom:2px;display:inline}
-
-a.t_volver {background:#5C81B7;color:#ffffff;font-weight:bold;padding-top:5px;padding-bottom:2px;display:inline}
-a.t_volver:hover {background:#ffcc00;}
-.t_nom {color:#003E76;font: 125% arial; font-weight:bold}
-
-.t_grade { color:#003E76;border:2px solid orange; margin:5px; padding-bottom:5px; padding-top: 5px; font: 115% arial;font-weight:bold}
 
 
 
-*/
-
-/* NUEVOS ESTILOS -- MAS ACCESIBLES 
-
-div.w100 {width:100%; margin-bottom:1em}
-div.container { width:auto; text-align:left;}
-div.float { float: left; padding:0.5em; }
-div.float p { text-align: center; }  
-div.menu_item {float:left;padding-right: 0.5em;}
 
 
-tr.uv_list_sel { background:#e0e0e0}
-td.uv_list_selected {
-        font: 1.0em Arial;
-        padding: 0.3em 1em;   margin:2.5em;  border-bottom: 3px solid #A0BDEB;}
-
-.list_c {padding:0.5em;border-right:1px solid #A0BDEB;padding-left:0.5em}
-
-.edit {font: 1.2em Arial;}
-
-p.photo_text {width:72px; display:block;} */
-
-/*** FORMULARIOS 
-form {font-size:1em;color:#003366}
-input {font-size:1em;color:#003366}
-select {font-size:1em;color:#003366}
-textarea {font-size:1em;color:#003366}
-pre {font: 95% arial}
-***/
 
 
-/****************************************************************************************************/
 
-/*** AREAS ***/
-div.all {width:100%; margin:0em; padding:0em; border:0em; }
-
-div.spacer { clear: both; font: 0.4em arial; border:0px solid red }
-div.comm {background:#6186b0;color:#ffffff;
-                padding:0.3em; float:left; 
-                font: 1.2em arial; font-weight: bold}
-div.back {background:#6186b0;color:#ffffff;
-                float:right; padding-top:0.3em; padding-bottom:0.3em;   }
-
-div.back_l {background:#6186b0;color:#ffffff;
-                 padding-top:0.3em; padding-bottom:0.3em; float:left    }
-                 
-div.container { width:auto; text-align:left;}
-div.float { float: left; padding:0.5em; }
-div.float p { text-align: center; }     
-p.photo_text {width:72px; display:block;} 
-
-div.form {float:left; background:white; padding: 0em 1em; display:table; overflow:hidden}
-p.form {background:#CCDDFF; border-bottom:1px solid #ffffff;padding-left:0.2em 0.5em:}
-p.form1 {background:#ffffff;border-bottom:1px solid #5C81B7; padding-left:0.2em 0.5em;}
-        
-
-div.photo {float:left; background:#ffffff;}
-div.white {width:100%; background:#ffffff}       
-                
-/*** LINKS ***/
-a { text-decoration:none;padding:0px; margin:0px; border:0px}
-a.noline {text-decoration:none;padding:0px; margin:0px; border:0px}
-a.noline:hover {text-decoration:underline}
-a.back, a.back:visited {color:#ffffff; font-weight: bold; padding:0.5em; border:0px}
-a.back:hover {background:#ffcc00; color:#ffffff; font-weight: bold; text-decoration: underline }
-
-a.button_item, a.button_item:visited{ 
-        font: 1.0em arial; text-align: center;text-decoration: none; white-space: nowrap;
-        background-color: #e1e1e1;color: black; border: solid 1px black;
-        float:left; padding: 2px 0.6em; margin: 0.5em 0em; margin-right: 0.5em;  
-        }
-
-a.button_item:hover { background:#cccccc; text-decoration:underline;}
-
-a.alum , a.alum:visited, a.csv, a.csv:visited {text-decoration:none; border-bottom:0px}
-a.alum:hover, a.csv:hover {text-decoration:underline; border-bottom:0px}
-
-a.orderby {margin-left:1em; border:0px}
-
-
-/*** TABLE ***/
-table.uv_list {border-collapse:collapse}
-caption.uv_list {       font:1.2em Arial;font-weight:bold;padding:0.5em 1em}
-tr.uv_list_header {background:#ffffff; padding:10px 0px}
-th.uv_list {
-        text-align:left; font: 1.0em Arial; font-weight:bold;
-        padding: 0.3em 1em;  border-bottom: 3px solid #A0BDEB;}
-td.uv_list {
-        font: 1.0em Arial;
-        padding: 0.3em 1em; margin: 2.5em; border-bottom: 1px solid #A0BDEB;}
-        
-table.uv_table { width:100%;border-collapse:collapse; border:1px solid #A0BDEB; padding:0px; padding:0px}
-table.uv_table1 { width:100%;border-collapse:collapse; border:0px solid #A0BDEB; padding:0px; padding:0px}
-caption.uv_table, div.title {font:1.2em Arial;font-weight:bold;padding:0.5em 1em}
-tr.uv_table_header {background:#ffffff; padding:10px 0px}
-tr.uv_cell_insert {background:#e0e0e0;} 
-th.uv_cell {
-        font: 1.0em Arial; font-weight:bold; text-align:left;
-        padding: 0.3em 1em;  border-bottom: 3px solid #A0BDEB;
-        border-right: 1px solid #A0BDEB;}
-td.uv_cell {
-        font: 1.0em Arial; padding: 0.0em 1em; margin: 2.5em; 
-        border-bottom: 1px solid #A0BDEB;border-right: 1px solid #A0BDEB;}
-td.uv_cell_insert {
-        font: 1.0em Arial; padding: 0.0em 1em; margin: 2.5em; 
-        border-bottom: 1px solid #A0BDEB;border-right: 1px solid #A0BDEB;}
-
-table.form {background:#ffffff; margin:3px}
-caption.form {font:1.2em Arial;font-weight:bold;text-align:left}
-tr.form {}
-th.form {margin-bottom:3px;font-weight:bold; background:#CCDDFF; text-align:left; padding:3px; padding-left:5px}
-td.form { background:#ffffff; border:1px solid #A0BDEB; padding:3px; padding-left:5px}
-td.photo { background:#ffffff; vertical-align:middle;  padding:3px; padding-left:5px}
-        
-th.final_grade {color:#003E76;border:2px solid orange; margin:5px; padding-bottom:5px; padding-top: 5px; font: 115% arial;font-weight:bold;}    
-th.no_border {border:0px}
-th.block {background:#6186b0;color:#ffffff; font-weight: bold; text-align:left; padding:2px}
-th.block_avg {background:#6186b0;color:#ffffff; font-weight: bold; text-align:right; padding:2px}
-
-        
-/*** IMAGES ***/
-img {border:0px;padding:0px; margin:0px;text-decoration:none}
-
-        
-/**** VARIOS *******/
-
-h4.total {display:block; width: 100%; color:#6186b0; font-family:Arial; text-align:right}
-h3.black {display:block; width: 100%; color:#000000; font:1.2em Arial; text-align:left}
-span.alert {color:red;}
-span.big {font-weight:bold; font-size:1.5em}
-span.small {font-weight:normal; font-size:0.7em}
-span.yes {font-weight:bold; font-size:1.0em}
-span.student {font: 1.2em Arial}
-span.underline {font: 1em Arial;text-decoration: underline}
-span.bold {font: 1em Arial;font-weight:bold}
-span.cursive {font: 1em Arial; font-style: italic}
-span.notes {font: 0.8em Courier}
-span.char {font-size:80%}
-li.config_item{font-family:Arial; padding-bottom:0.4em}
-pre {font: 90% Arial}
-p {font: 1em arial}
-textarea {font: 1.2em Arial}
-
-
-#white {background:#ffffff}
