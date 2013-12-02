@@ -59,7 +59,7 @@ if {$mode eq "mail"} {
         db_1row get_teacher_mail { *SQL* }
         db_1row get_student_mail { *SQL* }
 
-        ns_sendmail $student_email $teacher_email $mail_subject $mail_body
+        acs_mail_lite::send -to_addr $student_email -from_addr $teacher_email -subject $mail_subject -body $mail_body
         set mode ""
         set datetime [clock_to_ansi [clock seconds]]
         append comment "-> " $datetime ": " $mail_subject "<BR> " $mail_body    
