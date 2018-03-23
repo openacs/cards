@@ -37,7 +37,7 @@
   <msg key="card_Invalid_value2">. Values between 0 and </msg>
   <msg key="card_Lecturer_comments">Lecturer's comments to student </msg>
   <msg key="card_Manage_notes">Manage tasks</msg>
-  <msg key="card_No_notes">Notes not availble</msg>
+  <msg key="card_No_notes">Notes not available</msg>
   <msg key="card_Not_done">Not done </msg>
   <msg key="card_Not_passed">Not passed </msg>
   <msg key="card_Note">Note  </msg>
