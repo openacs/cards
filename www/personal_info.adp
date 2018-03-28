@@ -41,7 +41,7 @@ else num.value = max - campo.value.length;
 
 <!-- TEACHER COMMENT --> 
 <TABLE class="form">
-<CAPTION class="form">&nbsp;#cards.comunication#</CAPTION>
+<CAPTION class="form">&nbsp;#cards.communication#</CAPTION>
 <TR class="form">
         <TH class="form">#cards.student_comment#: </TH>
         <TD class="form"><PRE>@comm_student@&nbsp;</PRE></TD>

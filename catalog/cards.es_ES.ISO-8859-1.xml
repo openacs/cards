@@ -69,7 +69,7 @@
   <msg key="card_Without_academic_validity">Sin validez académica </msg>
   <msg key="change_photo">Cambiar Foto</msg>
   <msg key="comments">Comentarios privados</msg>
-  <msg key="comunication">Comunicación</msg>
+  <msg key="communication">Comunicación</msg>
   <msg key="Email">Correo electrónico</msg>
   <msg key="eval2card_info">Esta utilidad permite importar las notas de una tarea del módulo Fichas desde una tarea del módulo Actividades. Por tanto, las dos tareas deben estar creadas y la de Actividades evaluada. Hay que tener en cuenta que no se guarda ninguna relación entre las tareas y que para reflejar en Fichas cualquier cambio producido en las notas de Actividades hay que volver a importar las notas.</msg>
   <msg key="from_eval">DESDE ACTIVIDADES</msg>

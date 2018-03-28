@@ -77,7 +77,7 @@ else num.value = max - campo.value.length;
 
 <!-- STUDENT COMMENT --> 
 <TABLE class="form">
-<CAPTION class="form">&nbsp;#cards.comunication#</CAPTION>
+<CAPTION class="form">&nbsp;#cards.communication#</CAPTION>
 <TR class="form">
         <TH class="form">#cards.student_comment#:<BR>
         <A HREF="student_card?user_id=@user_id@&nav_sel=ficha&mode=student_edit" title="#cards.student_comment# #cards.card_Edit#" class="noline"><img alt="#cards.student_comment# #cards.card_Edit#" src="icons/edit.gif"></A>

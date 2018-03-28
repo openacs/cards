@@ -69,7 +69,7 @@
   <msg key="card_Without_academic_validity">Sense validesa acadèmica </msg>
   <msg key="change_photo">Canvia Foto</msg>
   <msg key="comments">Comentaris privats</msg>
-  <msg key="comunication">Comunicació</msg>
+  <msg key="communication">Comunicació</msg>
   <msg key="Email">Correu electrònic</msg>
   <msg key="eval2card_info">Aquesta utilitat permet importar les notes des d'una tasca del mòdul Activitats cap a una tasca del mòdul Fitxes d'estudiants. Per tant les dues tasques han d'estar creades i la del mòdul Activitats ha de estar avaluada. Cal tindre en compte que no es guarda cap relació entre les tasques i si canvien les notes al mòdul Activitats hauriem de tornar a importar les notes per reflectir el canvis a les Fitxes</msg>
   <msg key="from_eval">DES DE ACTIVITATS</msg>

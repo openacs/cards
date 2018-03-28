@@ -69,7 +69,7 @@
   <msg key="card_Without_academic_validity">Without academic validity </msg>
   <msg key="change_photo">Change Photo</msg>
   <msg key="comments">Private Comments</msg>
-  <msg key="comunication">Comunication</msg>
+  <msg key="communication">Communication</msg>
   <msg key="Email">E-mail</msg>
   <msg key="eval2card_info">This utility allow to import the &quot;Cards&quot; task grades from the &quot;Evaluation&quot; task grades. The two tasks must be created and the one of evaluation graded. There is no relation between two tasks and to udpate any change of evaluation grades it's needed to import the grades again.</msg>
   <msg key="from_eval">FROM EVALUATION</msg>
@@ -91,7 +91,7 @@
   <msg key="phones">Phones</msg>
   <msg key="pretty_name">Cards</msg>
   <msg key="print_version">Printable version</msg>
-  <msg key="private_comment_note">Private Coments: the students will not be able to read this comments</msg>
+  <msg key="private_comment_note">Private Comments: the students will not be able to read this comments</msg>
   <msg key="restriction">Restriction more or equal than</msg>
   <msg key="select_card_task">Select a Card task</msg>
   <msg key="select_evaluation_task">Select an Evaluation task</msg>
