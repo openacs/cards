@@ -139,7 +139,7 @@ set elements [list first_names [list label "#dotlrn.First_Name#"]]
 template::list::create \
     -name csv_members \
     -multirow current_members \
-    -key user_id_id \
+    -key user_id \
     -elements $elements \
         -selected_format csv -formats {
         csv { output csv }
