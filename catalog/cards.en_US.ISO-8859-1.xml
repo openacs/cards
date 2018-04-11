@@ -71,7 +71,7 @@
   <msg key="comments">Private Comments</msg>
   <msg key="communication">Communication</msg>
   <msg key="Email">E-mail</msg>
-  <msg key="eval2card_info">This utility allow to import the &quot;Cards&quot; task grades from the &quot;Evaluation&quot; task grades. The two tasks must be created and the one of evaluation graded. There is no relation between two tasks and to udpate any change of evaluation grades it's needed to import the grades again.</msg>
+  <msg key="eval2card_info">This utility allows one to import the &quot;Cards&quot; task grades from the &quot;Evaluation&quot; task grades. The two tasks must be created and the one of evaluation graded. There is no relation between two tasks and to update any change of evaluation grades it's needed to import the grades again.</msg>
   <msg key="from_eval">FROM EVALUATION</msg>
   <msg key="generate_csv">Generate CSV file</msg>
   <msg key="grade_alert">NOTE: The shown final grade corresponds with the accumulated grade until this moment, does not have because to be the final grade</msg>
