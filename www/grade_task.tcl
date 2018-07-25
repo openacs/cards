@@ -150,7 +150,7 @@ if {$mode == "update"} {
           set new_grade 0.00
         }
         if {[info exists grade($note_id)]} {
-          set new_comment [DoubleApos $note_comment($note_id)]
+          set new_comment $note_comment($note_id)
         } else {
           set new_comment ""
         }
